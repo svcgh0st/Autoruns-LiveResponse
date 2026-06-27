@@ -1,0 +1,5 @@
+# One case-insensitive text fragment per line.
+# A row is omitted if any field contains a listed fragment.
+# Example:
+# C:\Program Files\Example App\
+# ExampleUpdater.exe
